@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415903891784",
+    "project_id": "know-better-59964",
+    "storage_bucket": "know-better-59964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415903891784:android:e9a629fb8b37d6f3ccb37d",
+        "android_client_info": {
+          "package_name": "com.example.know_better"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415903891784-g2fbjtridomq5f004ido6fdq6tgit5jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.know_better",
+            "certificate_hash": "b24340b6713521330eef9aaf585ff9dfdd604b9d"
+          }
+        },
+        {
+          "client_id": "415903891784-kh4isl9g0uvt13oddp7blpcflqe3vi2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpU3BAtUjNSNf3kn3ElEMhZgMcXQJkFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415903891784-kh4isl9g0uvt13oddp7blpcflqe3vi2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
